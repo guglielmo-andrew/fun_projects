@@ -1,0 +1,19 @@
+input a number a
+input an operator
+input a number b
+
+switch
+    case 1: "+"
+        a+b
+        break
+    case 2: "-"
+        a-b
+        break
+    case 3: "*"
+        a*b
+        break
+    case 4: "/"
+        a/b
+        break
+    case 5: "="
+        print c
